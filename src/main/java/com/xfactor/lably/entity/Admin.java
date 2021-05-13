@@ -13,6 +13,7 @@ public class Admin {
     private String department;
 
     public String getName() {
+        System.out.println("Hello world");
         return name;
     }
 
